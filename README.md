@@ -1,4 +1,4 @@
-# 🌤️ MCP Weather and Quotes Server
+# 🌤️ MCP Weather Server
 
 This is a lightweight MCP (Model Context Protocol) server built using [FastMCP](https://github.com/anthropics/fastmcp). It connects with **Claude for Desktop** and exposes useful tools like:
 
